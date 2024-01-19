@@ -13,17 +13,22 @@
       "cDAI": "0xB270dc160Cd71627b0e8F2EfcdF7baaA4c9c61c7",
       "UNI": "0x208F73527727bcB2D9ca9bA047E3979559EB08cC",
       "cUNI": "0x2E0DFe0C82b17b6ABe4b92db61a18d4c7cd296FF",
-      "cETH": "0xf89D5Aa715d95C31A75f80e260441FfAcdd3e7D4"
+      "cETH": "0xf89D5Aa715d95C31A75f80e260441FfAcdd3e7D4",
+      "Maximillion": "0xdaD57B4C27f8D4Ab37C0E386Bbb0058D7bc14469",
+      "CompoundLens": "0x04EC9f6Ce8ca39Ee5c7ADE95C69e38ddcaA8CbB7",
+      "Timelock":"0xDde5fd1c5acc42a7D6bb6A8394cd6210d5FC59eD"
     },
     "Blocks": {
+      "CompoundLens": 10393750,
+      "Maximillion": 10393763,
       "Unitroller": 10387352,
       "Comptroller": 10387354,
       "PriceOracle": 10387356,
       "PriceOracleProxy": 10387356,
-      "cCOMP": 7560731,
-      "cDAI": 7560737,
-      "cETH": 7560718,
-      "cUNI": 7560727,
+      "cCOMP": 10388902,
+      "cDAI": 10387420,
+      "cETH": 10387362,
+      "cUNI": 10387424,
       "COMP": 7550234,
       "DAI": 7560735,
       "USDC": 5516589
